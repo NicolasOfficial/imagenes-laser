@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 170.08 170.08">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: url(#Degradado_sin_nombre);
+      }
+    </style>
+    <radialGradient id="Degradado_sin_nombre" data-name="Degradado sin nombre" cx="47.55" cy="40.73" fx="47.55" fy="40.73" r="93.51" gradientTransform="translate(-71.69 312.16) rotate(-24.27) scale(2.83 -2.3)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f9ed32"/>
+      <stop offset=".26" stop-color="#f59f4f"/>
+      <stop offset=".65" stop-color="#ee2a7b"/>
+      <stop offset=".68" stop-color="#e32a81"/>
+      <stop offset=".74" stop-color="#c72a91"/>
+      <stop offset=".81" stop-color="#982aab"/>
+      <stop offset=".9" stop-color="#582ace"/>
+      <stop offset=".99" stop-color="#072afb"/>
+      <stop offset="1" stop-color="#002aff"/>
+    </radialGradient>
+  </defs>
+  <g id="ig">
+    <path class="cls-2" d="m136.06,170.08H34.02c-18.71,0-34.02-15.31-34.02-34.02V34.02C0,15.31,15.31,0,34.02,0h102.05c18.71,0,34.02,15.31,34.02,34.02v102.05c0,18.71-15.31,34.02-34.02,34.02Z"/>
+    <path class="cls-1" d="m107.72,144.57h-45.35c-20.41,0-36.85-16.44-36.85-36.85v-45.35c0-20.41,16.44-36.85,36.85-36.85h45.35c20.41,0,36.85,16.44,36.85,36.85v45.35c0,20.41-16.44,36.85-36.85,36.85ZM62.36,31.18c-17.29,0-31.18,13.89-31.18,31.18v45.35c0,17.29,13.89,31.18,31.18,31.18h45.35c17.29,0,31.18-13.89,31.18-31.18v-45.35c0-17.29-13.89-31.18-31.18-31.18h-45.35Z"/>
+    <path class="cls-1" d="m85.04,116.22c-17.29,0-31.18-13.89-31.18-31.18s13.89-31.18,31.18-31.18,31.18,13.89,31.18,31.18-13.89,31.18-31.18,31.18Zm0-56.69c-14.17,0-25.51,11.34-25.51,25.51s11.34,25.51,25.51,25.51,25.51-11.34,25.51-25.51-11.34-25.51-25.51-25.51Z"/>
+    <path class="cls-1" d="m119.06,59.53c-4.82,0-8.5-3.69-8.5-8.5s3.69-8.5,8.5-8.5,8.5,3.69,8.5,8.5-3.69,8.5-8.5,8.5Zm0-11.34c-1.7,0-2.83,1.13-2.83,2.83s1.13,2.83,2.83,2.83,2.83-1.13,2.83-2.83-1.13-2.83-2.83-2.83Z"/>
+  </g>
+</svg>

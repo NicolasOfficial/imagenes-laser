@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170.08 170.08">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f84437;
+      }
+
+      .cls-2 {
+        fill: #f1f5f7;
+      }
+
+      .cls-3 {
+        fill: #dce6ea;
+      }
+    </style>
+  </defs>
+  <g id="_112-gmail_email_mail" data-name="112-gmail, email, mail">
+    <g>
+      <rect class="cls-2" x="21.26" width="127.56" height="170.08"/>
+      <path class="cls-3" d="m85.04,102.92l63.78,67.15V37.5l-63.78,65.42Z"/>
+      <path class="cls-1" d="m154.13,0h-5.31l-63.78,67.15L21.26,0h-5.31C7.14,0,0,9.52,0,21.26v127.56c0,11.73,7.14,21.26,15.94,21.26h5.31V37.5l63.78,65.41,63.78-65.42v132.59h5.31c8.8,0,15.95-9.53,15.95-21.26V21.26c0-11.74-7.14-21.26-15.95-21.26h0Z"/>
+    </g>
+  </g>
+</svg>
